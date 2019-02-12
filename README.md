@@ -1,0 +1,3 @@
+# GitTest
+
+Test Git usefulness
